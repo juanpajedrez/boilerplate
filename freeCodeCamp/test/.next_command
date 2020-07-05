@@ -83,3 +83,13 @@ cd ..
 ls --color=auto
 git add --all
 mv website website-boilerplate
+find website-boilerplate
+ls --color=auto
+cd website-boilerplate/
+ls --color=auto
+ls --color=auto
+cd ..
+ls --color=auto
+ls --color=auto
+ls --color=auto
+ls --color=auto
