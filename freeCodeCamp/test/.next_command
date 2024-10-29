@@ -112,3 +112,12 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 git status
 git add --all
+git pull
+git config pull.rebase false
+git pull
+git pull origin main
+git pull origin main --allow-unrelated-histories
+git status
+clear
+git commit -m "First commit after git rebase"
+git add --all
