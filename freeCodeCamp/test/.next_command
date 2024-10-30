@@ -7,3 +7,5 @@ touch index.html
 touch styles.css
 ls --color=auto
 touch index.js
+tourch .gitignore
+touch .gitignore
