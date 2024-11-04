@@ -112,3 +112,10 @@ git add --all
 git pull
 git status
 git add --all
+git status
+clear
+git push
+git pull
+git pull
+git status
+git add --all
