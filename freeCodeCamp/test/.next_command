@@ -173,3 +173,11 @@ ls --color=auto
 mv roboto.woff images
 mv roboto.woff fonts
 find
+mv latto.ttf fonts
+ls --color=auto
+mv latto.ttf fonts
+cd fonts
+cd ..
+ls --color=auto
+mv latto.ttf fonts
+mv lato.ttf fonts
