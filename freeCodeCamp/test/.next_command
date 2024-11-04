@@ -145,3 +145,4 @@ touch freeCodeCamp.svg
 ls --color=auto
 touch images
 mkdir images
+ls --color=auto
