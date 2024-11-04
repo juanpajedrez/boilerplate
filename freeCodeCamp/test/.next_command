@@ -181,3 +181,4 @@ cd ..
 ls --color=auto
 mv latto.ttf fonts
 mv lato.ttf fonts
+mv menlo.otf fonts
