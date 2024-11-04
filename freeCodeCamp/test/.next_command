@@ -1,1 +1,9 @@
 find
+git add --all
+git add --all
+git status
+cd ..
+git statis
+git status
+clear
+git add --all
