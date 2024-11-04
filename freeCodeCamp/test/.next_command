@@ -32,3 +32,4 @@ find images
 find -name header.png
 find -name images
 mv header.png client/assets/images
+find -name header.png
