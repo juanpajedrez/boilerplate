@@ -125,3 +125,6 @@ clear
 ls --color=auto
 cd website
 ls --color=auto
+help ls
+ls --color=auto help
+ls --color=auto --help
