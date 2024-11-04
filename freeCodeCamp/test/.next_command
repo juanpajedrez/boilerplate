@@ -64,3 +64,4 @@ rmdir fonts --ignore-fail-on-non-empty
 rm --help
 rm -r fonts
 ls --color=auto
+touch package.json
