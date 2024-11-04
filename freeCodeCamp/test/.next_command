@@ -93,3 +93,4 @@ ls --color=auto
 ls --color=auto
 ls --color=auto
 ls --color=auto
+cp --help
