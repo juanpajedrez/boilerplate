@@ -119,3 +119,9 @@ git pull
 git pull
 git status
 git add --all
+git commit -m "Incoming changes"
+git push
+clear
+ls --color=auto
+cd website
+ls --color=auto
