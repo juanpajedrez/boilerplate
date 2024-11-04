@@ -62,3 +62,4 @@ rmdir fonts
 rmdir --help
 rmdir fonts --ignore-fail-on-non-empty
 rm --help
+rm -r fonts
