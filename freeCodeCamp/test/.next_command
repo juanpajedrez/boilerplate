@@ -186,3 +186,4 @@ find
 mkdir clients
 mkdir client
 mkdir client/src
+mv index.html client/src
