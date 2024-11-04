@@ -4,3 +4,4 @@ git status
 cd website
 cd client
 mkdir assets
+cd assets
