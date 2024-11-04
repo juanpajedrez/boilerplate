@@ -10,3 +10,13 @@ mkdir images
 ls --color=auto
 cd images
 touch background.jpg
+cd ..
+cd ..
+cd ..
+cd ..
+cd website
+ls --color=auto
+cd client
+cd assets
+cd images
+cd ../../..
