@@ -109,3 +109,6 @@ clear
 ls --color=auto
 git status
 git add --all
+git pull
+git status
+git add --all
