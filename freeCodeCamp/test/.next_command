@@ -128,3 +128,4 @@ ls --color=auto
 help ls
 ls --color=auto help
 ls --color=auto --help
+ls --color=auto --all
