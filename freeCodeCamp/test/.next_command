@@ -9,3 +9,4 @@ mkdir assets
 mkdir images
 ls --color=auto
 cd images
+touch background.jpg
