@@ -1,0 +1,5 @@
+git status
+cd ..
+git status
+cd website
+cd client
